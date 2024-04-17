@@ -203,3 +203,14 @@ cat ~/.ssh/
 cat ~/.ssh/id_rsa.pub
 git clone
 gitclear
+git clone git@github.com:ehsangittt/new-.git
+nano README.md
+git add .
+git commit -m " add new task to git "
+git push
+clear
+git commit -m " add new
+clear
+
+
+
