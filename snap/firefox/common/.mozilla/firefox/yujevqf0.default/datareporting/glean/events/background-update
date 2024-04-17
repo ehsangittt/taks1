@@ -1,0 +1,6 @@
+{"timestamp":535197,"category":"nimbus_events","name":"enroll_failed","extra":{"experiment":"spocs-endpoint-rollout-release","reason":"feature-conflict"}}
+{"timestamp":535246,"category":"nimbus_events","name":"enrollment","extra":{"experiment_type":"rollout","branch":"treatment","experiment":"device-migration-q4-spotlights-remaining-population"}}
+{"timestamp":535439,"category":"nimbus_events","name":"enrollment","extra":{"experiment":"firefox-desktop-long-term-holdback-validation-release","experiment_type":"nimbus","branch":"delivery"}}
+{"timestamp":561906,"category":"nimbus_events","name":"enroll_failed","extra":{"reason":"feature-conflict","experiment":"pocket-newtab-3rd-sponsored-tile-rollout"}}
+{"timestamp":561923,"category":"nimbus_events","name":"unenrollment","extra":{"reason":"recipe-not-seen","experiment":"phc-10-test","branch":"rollout"}}
+{"timestamp":1097978,"category":"nimbus_events","name":"exposure","extra":{"feature_id":"fxms-message-6","branch":"control","experiment":"firefox-accounts-toolbar-button-default-visibility-existing-users-part-3"}}

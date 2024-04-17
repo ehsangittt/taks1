@@ -1,0 +1,3 @@
+[Report]
+Uri=file:///home/ehsan/%20ssh-keygen%20-t%20rsa%20-b%204096%20-C%20hadiehsan1382@gmail.com.pub
+Message=Could not get any metadata for uri:'file:///home/ehsan/%20ssh-keygen%20-t%20rsa%20-b%204096%20-C%20hadiehsan1382@gmail.com.pub' and mime:'application/vnd.ms-publisher'

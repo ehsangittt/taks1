@@ -1,0 +1,4 @@
+https:live.thunderbird.net:443:.:^partitionKey=%28https%2Cthunderbird.net%29:3	0	19765	https:live.thunderbird.net:443:live.thunderbird.net:443::n:1707810801:h3:y:1707724394:n:^partitionKey=%28https%2Cthunderbird.net%29:|n:y:
+https:start.thunderbird.net:443:.:^partitionKey=%28https%2Cthunderbird.net%29:3	0	19765	https:start.thunderbird.net:443:start.thunderbird.net:443::n:1707810803:h3:y:1707724394:n:^partitionKey=%28https%2Cthunderbird.net%29:|n:y:
+https:autoconfig.thunderbird.net:443:.::3	0	19765	https:autoconfig.thunderbird.net:443:autoconfig.thunderbird.net:443::n:1707810801:h3:y:1707724394:n::|n:y:
+https:live.thunderbird.net:443:.::3	0	19765	https:live.thunderbird.net:443:live.thunderbird.net:443::n:1707810799:h3:y:1707724394:n::|n:y:
